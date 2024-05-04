@@ -1,0 +1,2 @@
+# adobaioptimize
+deco圧縮
